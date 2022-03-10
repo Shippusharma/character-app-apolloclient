@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/character-app-apolloclient/static/css/main.31d6cfe0.css",
+    "main.js": "/character-app-apolloclient/static/js/main.c611b1c6.js",
+    "static/js/787.1e86713e.chunk.js": "/character-app-apolloclient/static/js/787.1e86713e.chunk.js",
+    "index.html": "/character-app-apolloclient/index.html",
+    "main.c611b1c6.js.map": "/character-app-apolloclient/static/js/main.c611b1c6.js.map",
+    "787.1e86713e.chunk.js.map": "/character-app-apolloclient/static/js/787.1e86713e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c611b1c6.js"
+  ]
+}
